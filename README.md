@@ -14,12 +14,12 @@ If you want to contribute, you can go to folder of your choice, there you can fi
         <tr>
             <td>Artificial Neural Networks</td>
             <td>C++</td>
-            <td>[a link](https://github.com/user/repo/blob/branch/other_file.md) LINK</td>
+            <td>[a link](https://github.com/user/repo/blob/branch/other_file.md)</td>
         </tr>
         <tr>
             <td>Artificial Neural Networks</td>
             <td>Java</td>
-            <td></td>
+            <td>[Link](https://github.com/ayushsahu1999/deep-learning-resources/blob/main/Artificial%20Neural%20Networks/Java/README.md)</td>
         </tr>
         <tr>
             <td>Artificial Neural Networks</td>
