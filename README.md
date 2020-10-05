@@ -5,24 +5,119 @@ If you want to contribute, you can go to folder of your choice, there you can fi
 <table>
     <thead>
       <tr>
-        <th>words</th>
-        <th>transform to</th>
-        <th>keepUpperCase is false</th>
-        <th>keepUpperCase is true</th>
+        <th>Neural Networks</th>
+        <th>Coding Language</th>
+        <th>Link</th>
       </tr>
     </thead>
     <tbody>
         <tr>
-            <td>"XML HTTP request"</td>
-            <td>pascalCase</td>
-            <td><code>XmlHttpRequest</code></td>
-            <td><code>XMLHTTPRequest</code></td>
+            <td>Artificial Neural Networks</td>
+            <td>C++</td>
+            <td>[a link](https://github.com/user/repo/blob/branch/other_file.md)</td>
         </tr>
         <tr>
-            <td>"new customer ID"</td>
-            <td>camelCase</td>
-            <td><code>newCustomerId</code></td>
-            <td><code>newCustomerID</code></td>
+            <td>Artificial Neural Networks</td>
+            <td>Java</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Artificial Neural Networks</td>
+            <td>JavaScript</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Artificial Neural Networks</td>
+            <td>Python</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Artificial Neural Networks</td>
+            <td>R</td>
+            <td></td>
+        </tr>
+        <thead>
+      <tr>
+        <th>Neural Networks</th>
+        <th>Coding Language</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Artificial Neural Networks</td>
+            <td>C++</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Artificial Neural Networks</td>
+            <td>Java</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Artificial Neural Networks</td>
+            <td>JavaScript</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Artificial Neural Networks</td>
+            <td>Python</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Artificial Neural Networks</td>
+            <td>R</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Convolutional Neural Networks</td>
+            <td>C++</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Convolutional Neural Networks</td>
+            <td>Java</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Convolutional Neural Networks</td>
+            <td>JavaScript</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Convolutional Neural Networks</td>
+            <td>Python</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Convolutional Neural Networks</td>
+            <td>R</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Recurrent Neural Networks</td>
+            <td>C++</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Recurrent Neural Networks</td>
+            <td>Java</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Recurrent Neural Networks</td>
+            <td>JavaScript</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Recurrent Neural Networks</td>
+            <td>Python</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Recurrent Neural Networks</td>
+            <td>R</td>
+            <td></td>
         </tr>
     </tbody>
   </table>
