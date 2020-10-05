@@ -14,7 +14,7 @@ If you want to contribute, you can go to folder of your choice, there you can fi
         <tr>
             <td>Artificial Neural Networks</td>
             <td>C++</td>
-            <td>[a link](https://github.com/user/repo/blob/branch/other_file.md)</td>
+            <td>[a link](https://github.com/user/repo/blob/branch/other_file.md) LINK</td>
         </tr>
         <tr>
             <td>Artificial Neural Networks</td>
