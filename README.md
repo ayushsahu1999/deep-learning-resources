@@ -2,6 +2,29 @@
 A full information encyclopedia of deep learning resources for many languages.
 
 If you want to contribute, you can go to folder of your choice, there you can find a README.md, you can edit there.
+
+There are 3 main folders:
+* Artificial Neural Networks
+* Convolutional Neural Networks
+* Recurrent Neural Networks
+
+Each of these folders are categorized based on coding languages. The coding languages are:
+* C++
+* Java
+* JavaScript
+* Python
+* R
+
+If you want to contribute in any selected language, you can click on the associated link and contribute.
+
+Each programming language have different resources:
+* Blogs
+* Books
+* Courses
+* Videos
+
+You can find these links in the readme of that programming language which you can go by clicking the links in the table below.
+
 <table>
     <thead>
       <tr>
@@ -24,7 +47,7 @@ If you want to contribute, you can go to folder of your choice, there you can fi
         <tr>
             <td>Artificial Neural Networks</td>
             <td>JavaScript</td>
-            <td><a href="https://github.com/ayushsahu1999/deep-learning-resources/blob/main/Artificial%20Neural%20Networks/Javascript/README.md">LinkLink</a></td>
+            <td><a href="https://github.com/ayushsahu1999/deep-learning-resources/blob/main/Artificial%20Neural%20Networks/Javascript/README.md">Link</a></td>
         </tr>
         <tr>
             <td>Artificial Neural Networks</td>
