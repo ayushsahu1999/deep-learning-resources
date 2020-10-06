@@ -97,7 +97,7 @@ You can find these links in the readme of that programming language which you ca
         <tr>
             <td>Recurrent Neural Networks</td>
             <td>JavaScript</td>
-            <td><a href="https://github.com/ayushsahu1999/deep-learning-resources/blob/main/Recurrent%20Neural%20Networks/Javascipt/README.md">Link</a></td>
+            <td><a href="https://github.com/ayushsahu1999/deep-learning-resources/blob/main/Recurrent%20Neural%20Networks/Javascript/README.md">Link</a></td>
         </tr>
         <tr>
             <td>Recurrent Neural Networks</td>
@@ -111,3 +111,5 @@ You can find these links in the readme of that programming language which you ca
         </tr>
     </tbody>
   </table>
+
+  If you do not know how to create a pull request and contribute, check out <a href="./CONTRIBUTING.md">this</a>.
